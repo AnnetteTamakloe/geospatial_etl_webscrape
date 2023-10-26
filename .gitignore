@@ -1,5 +1,5 @@
 #Ignore the 'Addresses' folder
-Addresses/
+/Addresses/
 
 #Ignore the 'geocoded' folder
-geocoded/
+/geocoded/
