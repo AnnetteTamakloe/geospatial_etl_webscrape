@@ -1,3 +1,5 @@
-#Ignore directories
+#Ignore the 'Addresses' folder
 Addresses/
+
+#Ignore the 'geocoded' folder
 geocoded/
