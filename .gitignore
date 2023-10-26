@@ -1,0 +1,4 @@
+#Ignore directories
+Projects/geospatial_etl_webscrape/geocoded/
+Projects/geospatial_etl_webscrape/Addresses/
+
